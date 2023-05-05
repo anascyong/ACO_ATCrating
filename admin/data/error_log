@@ -1,0 +1,9 @@
+[06-Apr-2023 07:56:31 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/udincom/public_html/demo/cbtinfi/admin/data/data_bank_add.php on line 8
+[06-Apr-2023 11:49:17 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/udincom/public_html/demo/cbtinfi/admin/data/data_bank_add.php on line 8
+[06-Apr-2023 11:49:36 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/udincom/public_html/demo/cbtinfi/admin/data/data_bank_add.php on line 8
+[07-Apr-2023 05:33:24 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/udincom/public_html/demo/cbtinfi/admin/data/data_bank_add.php on line 8
+[07-Apr-2023 05:33:24 UTC] PHP Warning:  mkdir(): File exists in /home/udincom/public_html/demo/cbtinfi/admin/data/data_bank_add.php on line 14
+[07-Apr-2023 05:41:49 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/udincom/public_html/demo/cbtinfi/admin/data/data_bank_add.php on line 8
+[07-Apr-2023 05:41:49 UTC] PHP Warning:  mkdir(): File exists in /home/udincom/public_html/demo/cbtinfi/admin/data/data_bank_add.php on line 14
+[07-Apr-2023 12:40:47 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/udincom/public_html/demo/cbtinfi/admin/data/data_bank_add.php on line 8
+[07-Apr-2023 12:40:47 UTC] PHP Warning:  mkdir(): File exists in /home/udincom/public_html/demo/cbtinfi/admin/data/data_bank_add.php on line 14
